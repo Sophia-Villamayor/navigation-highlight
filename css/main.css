@@ -7,7 +7,7 @@ html {
   text-decoration: none;
 }
 
-*, *::before  *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -93,6 +93,7 @@ img {
 }
 
 .berries figcaption {
+  color: #2f2d13;
   padding: .75em;
 }
 
