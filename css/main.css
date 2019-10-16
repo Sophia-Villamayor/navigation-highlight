@@ -118,3 +118,19 @@ img {
 .bblogo {
   padding: .2em .5em .3em;
 }
+
+.grapes {
+  font-family: Georgia, serif;
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: .3em;
+}
+
+.grapes figcaption {
+  color: #2f2d13;
+  padding: .75em;
+}
+
+.glogo {
+  padding: .2em .5em .3em;
+}
