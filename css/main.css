@@ -85,18 +85,18 @@ img {
   max-width: 100%;
 }
 
-.blueberry {
+.berries {
   font-family: Gerogia, serif;
   background-color: #fff;
   text-align: center;
   margin-bottom: .3em;
 }
 
-.blueberry figcaption {
+.berries figcaption {
   padding: .75em;
 }
 
-.berries {
+.bottom {
   padding: .2em .5em .3em;
 
 }
