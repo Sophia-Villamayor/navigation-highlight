@@ -80,6 +80,8 @@ h2 {
 }
 
 img {
+  padding-left: .5em;
+  padding-right: .5em;
   display: block;
   width: 100%;
   max-width: 100%;
@@ -98,5 +100,21 @@ img {
 }
 
 .bottom {
+  padding: .2em .5em .3em;
+}
+
+.blueberry {
+  font-family: Georgia, serif;
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: .3em;
+}
+
+.blueberry figcaption {
+  color: #2f2d13;
+  padding: .75em;
+}
+
+.bblogo {
   padding: .2em .5em .3em;
 }
