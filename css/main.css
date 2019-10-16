@@ -64,13 +64,13 @@ h1 {
 
 .button a:hover {
   padding: 0 .75em;
-  background-color: #cc1645;
+  background-color: #cc1465;
   color: #fff;
 }
 
 .button .current {
-  background-color: #cc1645;
-  border-color: #cc1645;
+  background-color: #cc1465;
+  border-color: #cc1465;
   color: #fff;
 }
 
