@@ -28,10 +28,10 @@ h1 {
 }
 
 .button {
-  border-style: solid;
   border-color: #ffe500;
   background-color: #ffe500;
   outline-offset: 2px;
+
   list-style-type: none;
   text-decoration: none;
   text-align: center;
@@ -76,7 +76,6 @@ h2 {
   font-family: "Sigmar One", serif;
   font-size: 1.875rem;
   color: #b20953;
-  margin: 30px;
   text-align: center;
 }
 
