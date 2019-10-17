@@ -49,9 +49,8 @@ h1 {
 }
 
 .button a {
-  display: block;
+  display: inline-block;
   list-style-type: none;
-  padding: 0 .75em;
   border-radius: 4px;
   background-color: #b2a212;
   color: #fff;
@@ -132,6 +131,7 @@ img {
 
 .grapes h2 {
   font-family: "Sigmar One", serif;
+  padding: 0 .75em;
 }
 
 .grapes figcaption {
