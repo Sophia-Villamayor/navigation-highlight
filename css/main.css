@@ -152,11 +152,11 @@ img {
 
 .red h2 {
   font-family: "Sigmar One", serif;
-    padding: .75em;
 }
 
 .red figcaption {
   color: #2f2d13;
+  padding: .75em;
 }
 
 .rlogo {
