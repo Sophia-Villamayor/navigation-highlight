@@ -82,7 +82,7 @@ img {
   display: block;
   width: 100%;
   max-width: 100%;
-  padding: .10px .10px .15px .10px;
+  padding: .10em .15em;
   background-color: #fff;
 }
 
@@ -95,10 +95,11 @@ img {
 
 .blueberry figcaption {
   color: #2f2d13;
-  padding: .75px .15px .75px .15px;
+  padding: .75em .15em;
 }
 
 .bottom {
+  background-color: #ffe500;
   padding: .2em .5em .3em;
 }
 
@@ -137,6 +138,7 @@ img {
 }
 
 .glogo {
+  background-color: #ffe500;
   padding: .2em .5em .3em;
 }
 
@@ -157,5 +159,6 @@ img {
 }
 
 .rlogo {
+  background-color: #ffe500;
   padding: .2em .5em .3em;
 }
