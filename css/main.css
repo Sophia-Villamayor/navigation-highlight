@@ -49,6 +49,7 @@ h1 {
 }
 
 .button a {
+  padding: 0 .75em;
   display: inline-block;
   list-style-type: none;
   border-radius: 4px;
@@ -60,7 +61,6 @@ h1 {
 }
 
 .button a:hover {
-  padding-left: 0 .75em;
   background-color: #cc1465;
   color: #fff;
 }
