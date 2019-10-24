@@ -82,7 +82,7 @@ img {
   display: block;
   width: 100%;
   max-width: 100%;
-  padding: '.10em .10em .15em .10em';
+  padding: .10px .10px .15px .10px;
   background-color: #fff;
 }
 
@@ -95,7 +95,7 @@ img {
 
 .blueberry figcaption {
   color: #2f2d13;
-  padding: '.75em 15em .75em 15em';
+  padding: .75px .15px .75px .15px;
 }
 
 .bottom {
