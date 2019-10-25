@@ -1,10 +1,7 @@
 html {
   box-sizing: border-box;
-  display: inline-block;
   background-color: #fff;
   line-height: 1.5;
-  list-style-type: none;
-  text-decoration: none;
 }
 
 *, *::before, *::after {
@@ -13,11 +10,8 @@ html {
 
 body {
   font-family: Georgia, serif;
-  list-style-type: none;
-  text-decoration: none;
   background-color: #fff;
   margin: 0;
-  text-align: center;
 }
 
 h1 {
@@ -30,7 +24,6 @@ h1 {
 .button {
   border-color: #ffe500;
   background-color: #ffe500;
-  outline-offset: 2px;
 
   list-style-type: none;
   text-decoration: none;
@@ -51,12 +44,9 @@ h1 {
 .button a {
   padding: 0 .75em;
   display: inline-block;
-  list-style-type: none;
   border-radius: 4px;
   background-color: #b2a212;
   color: #fff;
-  font-family: serif;
-  text-align: center;
   text-decoration: none;
 }
 
@@ -75,7 +65,6 @@ h2 {
   font-family: "Sigmar One", serif;
   font-size: 1.875rem;
   color: #b20953;
-  text-align: left;
 }
 
 img {
@@ -85,79 +74,7 @@ img {
   background-color: #fff;
 }
 
-.berries {
-  font-family: Gerogia, serif;
-  background-color: #fff;
-  text-align: center;
-  margin-top: .3em;
-}
-
-.blueberry figcaption {
-  color: #2f2d13;
-  padding: .75em .15em;
-}
-
 .bottom {
-  background-color: #ffe500;
-  padding: .2em .5em .3em;
-}
-
-.blueberry {
-  font-family: Georgia, serif;
-  background-color: #fff;
-  text-align: left;
-  margin-bottom: .3em;
-}
-
-.blueberry h2 {
-  font-family: "Sigmar One", serif;
-}
-
-.bblogo {
-  display: block;
-  background-color: #ffe500;
-  padding: .2em .5em .3em;
-}
-
-.grapes {
-  font-family: Georgia, serif;
-  background-color: #fff;
-  text-align: center;
-  margin-bottom: .3em;
-}
-
-.grapes h2 {
-  font-family: "Sigmar One", serif;
-  padding: 0 .75em;
-}
-
-.grapes figcaption {
-  color: #2f2d13;
-  padding: .75em;
-}
-
-.glogo {
-  background-color: #ffe500;
-  padding: .2em .5em .3em;
-}
-
-.red {
-  font-family: Georgia, serif;
-  background-color: #fff;
-  text-align: center;
-  margin-bottom: .3em;
-}
-
-.red h2 {
-  font-family: "Sigmar One", serif;
-}
-
-.red figcaption {
-  color: #2f2d13;
-  padding: .75em;
-}
-
-.rlogo {
   background-color: #ffe500;
   padding: .2em .5em .3em;
 }
