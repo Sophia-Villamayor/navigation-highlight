@@ -32,7 +32,7 @@ h1 {
 }
 
 .button nav {
-  font-size: .75rem;
+  font-size: 1.125rem;
   display: inline-block;
   text-decoration: none;
   list-style-type: none;
@@ -76,6 +76,7 @@ img {
 }
 
 .bottom {
+  font-size: .75rem;
   background-color: #ffe500;
   padding: .2em .5em .3em;
 }
