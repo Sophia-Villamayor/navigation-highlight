@@ -25,10 +25,13 @@ h1 {
 .button {
   border-color: #ffe500;
   background-color: #ffe500;
-
   list-style-type: none;
   text-decoration: none;
   text-align: center;
+}
+
+nav ul{
+  margin: 0;
 }
 
 .button nav {
