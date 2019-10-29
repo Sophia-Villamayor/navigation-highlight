@@ -28,6 +28,7 @@ h1 {
   background-color: #ffe500;
   list-style-type: none;
   text-decoration: none;
+  padding: .2em .5em .3em;
 }
 
 .button nav {
@@ -69,6 +70,8 @@ h2 {
 
 img {
   display: block;
+  text-align: left;
+  margin: 0;
   width: 100%;
   max-width: 100%;
   background-color: #fff;
@@ -76,7 +79,7 @@ img {
 
 .bottom {
   text-align: center;
-  font-size: 1.125rem;
+  font-size: 0. 75rem;
   background-color: #ffe500;
-  padding: .2em .5em .3em;
+  padding: .2em .5em .8em;
 }
