@@ -30,15 +30,12 @@ h1 {
   text-align: center;
 }
 
-nav ul{
-  margin: 0;
-}
-
 .button nav {
   font-size: 1.125rem;
   display: inline-block;
   text-decoration: none;
   list-style-type: none;
+  margin: 0;
 }
 
 .button li {
