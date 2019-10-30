@@ -29,6 +29,7 @@ h1 {
   background-color: #ffe500;
   list-style-type: none;
   text-decoration: none;
+  padding: .2em .5em .3em;
 }
 
 .button nav {
@@ -59,10 +60,6 @@ ul {
 .button a:hover {
   background-color: #cc1465;
   color: #fff;
-}
-
-.button {
-    padding: .2em .5em .3em;
 }
 
 .button .current {
