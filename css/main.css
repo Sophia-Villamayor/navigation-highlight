@@ -95,6 +95,7 @@ img {
   max-width: 100%;
   background-color: #fff;
   padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .blueberry {
@@ -112,8 +113,13 @@ img {
   padding-bottom: 3.25em;
 }
 
+.figcaption {
+  padding-top: 1em;
+}
+
 footer {
   margin: 0;
+  padding-bottom: .5em;
 }
 
 .bottom {
