@@ -78,10 +78,13 @@ img {
   background-color: #fff;
 }
 
+.blueberry {
+  padding-bottom: 3em;
+}
+
 .bottom {
   text-align: center;
   font-size: .75rem;
   background-color: #ffe500;
-  padding-top: .5em;
   padding-bottom: 5em;
 }
