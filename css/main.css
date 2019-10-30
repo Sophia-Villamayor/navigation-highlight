@@ -84,10 +84,14 @@ h2 {
   padding-top: 0;
 }
 
+.berries {
+  padding-bottom: 2em;
+}
+
 figure {
   padding-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 
 img {
