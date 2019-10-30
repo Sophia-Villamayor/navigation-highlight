@@ -29,7 +29,15 @@ h1 {
   background-color: #ffe500;
   list-style-type: none;
   text-decoration: none;
+}
+
+a {
+  margin: 0;
+}
+
+nav a {
   padding: .2em .5em .3em;
+  maegin: 0 0 .3em;
 }
 
 .button nav {
@@ -41,6 +49,7 @@ h1 {
 
 ul {
   margin: 0;
+  padding: 0;
 }
 
 .button li {
@@ -101,6 +110,10 @@ img {
 .grapes {
   margin: 0;
   padding-bottom: 3.25em;
+}
+
+footer {
+  margin: 0;
 }
 
 .bottom {
