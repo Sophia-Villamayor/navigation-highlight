@@ -81,6 +81,7 @@ h2 {
   font-size: 1.875rem;
   color: #b20953;
   margin: 0;
+  padding-top: 0;
 }
 
 figure {
@@ -100,17 +101,20 @@ img {
 
 .blueberry {
   margin: 0;
-  padding-bottom: 3.25em;
+  padding-bottom: 2em;
+  padding-top: 0;
 }
 
 .red {
   margin: 0;
-  padding-bottom: 3.25em;
+  padding-bottom: 2em;
+  padding-top: 0;
 }
 
 .grapes {
   margin: 0;
-  padding-bottom: 3.25em;
+  padding-bottom: 2em;
+  padding-top: 0;
 }
 
 .figcaption {
@@ -127,4 +131,5 @@ footer {
   font-size: .75rem;
   background-color: #ffe500;
   padding-bottom: 1.5em;
+  padding-top: 0;
 }
