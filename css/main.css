@@ -79,20 +79,21 @@ img {
 }
 
 .blueberry {
-  padding-bottom: 5em;
+  padding-bottom: 4em;
 }
 
 .red {
-  padding-bottom: 5em;
+  padding-bottom: 4em;
 }
 
 .grapes {
-  padding-bottom: 5em;
+  padding-bottom: 4em;
 }
 
 .bottom {
   text-align: center;
   font-size: .75rem;
   background-color: #ffe500;
+  padding-top: 2em;
   padding-bottom: 3.55em;
 }
