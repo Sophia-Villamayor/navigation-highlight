@@ -85,6 +85,10 @@ h2 {
   padding-bottom: 2.5em;
 }
 
+.berries h2 {
+  padding-top: 1em;
+}
+
 figure {
   padding-top: 2em;
   padding-left: .65em;
