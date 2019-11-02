@@ -79,7 +79,7 @@ h2 {
   font-size: 1.875rem;
   color: #b20953;
   margin: 0;
-  padding-top: .75em;
+  padding-top: 1em;
 }
 
 .berries {
@@ -105,6 +105,10 @@ img {
   margin: 0;
   padding-bottom: 2em;
   padding-top: 0;
+}
+
+.blueberry h2 {
+  padding-bottom: .5em;
 }
 
 .red {
