@@ -123,14 +123,14 @@ img {
   padding-top: 1em;
 }
 
-footer {
-  margin: 0;
-}
-
 .bottom {
   text-align: center;
   font-size: .75rem;
   background-color: #ffe500;
   padding-bottom: .5em;
-  padding-top: .7em;
+  padding-top: .8em;
+}
+
+footer {
+  margin: 0;
 }
