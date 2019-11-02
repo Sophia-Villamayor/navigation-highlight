@@ -128,9 +128,10 @@ img {
   font-size: .75rem;
   background-color: #ffe500;
   padding-bottom: .5em;
-  padding-top: .8em;
+  padding-top: .7em;
 }
 
 footer {
   margin: 0;
+  padding-bottom: .5em;
 }
