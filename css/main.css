@@ -123,6 +123,10 @@ img {
   padding-bottom: .5em;
 }
 
+.grapes h2 {
+  padding-top: 0;
+}
+
 .figcaption {
   padding-top: 1em;
 }
